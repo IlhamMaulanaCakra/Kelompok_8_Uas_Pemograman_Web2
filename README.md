@@ -3,11 +3,11 @@
 ## Profil
 | #               | Biodata                      |
 | --------------- | ---------------------------- |
-| **Nama**        | M. AKMAL AL ABDILAH          |
-| **NIM**         | 312110034                    |
+| **Nama**        | Ilham Maulana Cakra Dwi Noto |
+| **NIM**         | 312110027                    |
 | **Kelas**       | TI.21.A.1                    |
 | **Mata Kuliah** | Pemrograman Web 2            |
-| **Jabatan**     | Ketua Kelompok 8             |
+| **Jabatan**     | Perancangan                  |
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
